@@ -1,0 +1,1 @@
+# Thực hành hiển thị số nguyên tố #
